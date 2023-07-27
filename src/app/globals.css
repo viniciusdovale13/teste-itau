@@ -16,3 +16,8 @@
   font-size: 12px;
   margin-top: 16px;
 }
+.cardDetails {
+  background-color: #f1f1f1;
+  margin: 16px 0;
+  padding: 16px;
+}
